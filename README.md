@@ -1,5 +1,7 @@
-Click into the project 1 folder first.
+Click into the project 1 folder for document, stem and database design.
 
+
+To read the code, you can click the link down below.
 
 Application link
 https://github.com/homan712/EZRentalApp
