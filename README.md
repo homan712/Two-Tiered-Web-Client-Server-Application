@@ -1,4 +1,4 @@
-Click into the project 1 folder first, then click the application link
+Click into the project 1 folder first.
 
 
 Application link
